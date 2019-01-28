@@ -1,0 +1,4 @@
+scrapy crawl cnrobocon
+scrapy crawl lanqiao
+scrapy crawl robocup
+scrapy crawl tiaozhanbei
